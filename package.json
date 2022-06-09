@@ -1,0 +1,27 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "private": false,
+  "description": "weather cli app",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Serhii Hudzenko",
+  "license": "ISC",
+  "homepage": "https://myhostname.com.ua",
+  "repository": {
+    "type": "git",
+    "url": "https://myhostname.com.ua"
+  },
+  "bugs": {
+    "url": "https://myhostname.com.ua",
+    "email": "gudzsvmail@gmail.com"
+  }
+}
